@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collectable.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/FidgetTrading.cs" />
+      <File FileName="Assets/Scripts/GloblesAdding.cs" />
+      <File FileName="Assets/Scripts/BallMovement.cs" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/ButtonFunction.cs" />
+      <File FileName="Assets/Scripts/FPS.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp-Editor.csproj</String>
+    <String>Assembly-CSharp.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
